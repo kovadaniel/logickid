@@ -1,5 +1,5 @@
-# Ready app is available by this link
-https://chart-io-uuu0.onrender.com/
+# Deployed app
+https://logickid.onrender.com
 
 # Getting Started with Create React App
 
