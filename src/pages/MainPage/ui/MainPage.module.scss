@@ -1,0 +1,17 @@
+@import "app/styles/variables/variables.scss";
+
+.main {
+  width: 100%;
+  padding: 0 24px;
+
+  &__courses{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 18px;
+
+    @media (max-width: $sm) {
+      display: flex;
+      flex-direction: column;
+    } 
+  }
+}
